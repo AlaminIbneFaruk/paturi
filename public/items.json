@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Margherita Pizza",
+    "description": "Classic cheese and tomato pizza with a crispy crust.",
+    "category": "Pizza",
+    "price": 8.99,
+    "image": "/images/margherita.jpg",
+    "availability": true,
+    "rating": 4.5,
+    "isFeatured": true,
+    "isSpicy": false
+  },
+  {
+    "id": "2",
+    "name": "Spicy Chicken Wings",
+    "description": "Crispy wings tossed in a spicy buffalo sauce.",
+    "category": "Appetizers",
+    "price": 6.99,
+    "image": "/images/spicy-wings.jpg",
+    "availability": true,
+    "rating": 4.7,
+    "isFeatured": false,
+    "isSpicy": true
+  },
+  {
+    "id": "3",
+    "name": "Veggie Burger",
+    "description": "Grilled plant-based patty with lettuce, tomato, and vegan mayo.",
+    "category": "Burgers",
+    "price": 7.49,
+    "image": "/images/veggie-burger.jpg",
+    "availability": true,
+    "rating": 4.3,
+    "isFeatured": false,
+    "isSpicy": false
+  },
+  {
+    "id": "4",
+    "name": "Butter Chicken",
+    "description": "Creamy tomato-based curry with tender chicken pieces.",
+    "category": "Main Course",
+    "price": 11.99,
+    "image": "/images/butter-chicken.jpg",
+    "availability": true,
+    "rating": 4.9,
+    "isFeatured": true,
+    "isSpicy": true
+  },
+  {
+    "id": "5",
+    "name": "Mango Lassi",
+    "description": "Chilled yogurt drink blended with sweet mango pulp.",
+    "category": "Drinks",
+    "price": 3.49,
+    "image": "/images/mango-lassi.jpg",
+    "availability": true,
+    "rating": 4.8,
+    "isFeatured": false,
+    "isSpicy": false
+  },
+  {
+    "id": "6",
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey molten center.",
+    "category": "Desserts",
+    "price": 5.99,
+    "image": "/images/lava-cake.jpg",
+    "availability": true,
+    "rating": 4.9,
+    "isFeatured": true,
+    "isSpicy": false
+  },
+  {
+    "id": "7",
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce with Caesar dressing, croutons, and parmesan.",
+    "category": "Salads",
+    "price": 5.49,
+    "image": "/images/caesar-salad.jpg",
+    "availability": true,
+    "rating": 4.1,
+    "isFeatured": false,
+    "isSpicy": false
+  },
+  {
+    "id": "8",
+    "name": "Beef Shawarma Wrap",
+    "description": "Thinly sliced beef wrapped with garlic sauce and veggies.",
+    "category": "Wraps",
+    "price": 6.75,
+    "image": "/images/beef-shawarma.jpg",
+    "availability": false,
+    "rating": 4.6,
+    "isFeatured": false,
+    "isSpicy": true
+  }
+]

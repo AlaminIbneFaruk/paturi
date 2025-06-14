@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Chicken Leg Piece",
+      "price": "$15.99",
+      "image": "https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "alt": "Chicken Leg Piece"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Pizza",
+      "price": "$18.99",
+      "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1928&q=80",
+      "alt": "Chicken Pizza"
+    },
+    {
+      "id": 3,
+      "name": "Egg And Cucumber",
+      "price": "$12.99",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80",
+      "alt": "Egg And Cucumber"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Fried Rice",
+      "price": "$14.99",
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2128&q=80",
+      "alt": "Chicken Fried Rice"
+    }
+  ]
