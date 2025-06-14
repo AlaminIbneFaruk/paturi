@@ -1,4 +1,6 @@
-import { handlers } from '@/lib/auth';
+// REMOVE THIS LINE ❌
+// import { handlers } from '@/lib/auth';
+
 import NextAuth from 'next-auth';
 import CredentialsProvider from 'next-auth/providers/credentials';
 import GoogleProvider from 'next-auth/providers/google';
@@ -6,7 +8,6 @@ import { MongoDBAdapter } from '@next-auth/mongodb-adapter';
 import bcrypt from 'bcryptjs';
 import DBConnect, { collectionNames } from './DBConnect';
 
-// Create a client promise for MongoDBAdapter
 let clientPromise;
 
 async function getClientPromise() {
