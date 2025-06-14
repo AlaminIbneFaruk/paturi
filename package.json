@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bcryptjs": "^3.0.2",
     "daisyui": "^5.0.43",
     "framer-motion": "^12.16.0",
     "mongodb": "^6.17.0",
